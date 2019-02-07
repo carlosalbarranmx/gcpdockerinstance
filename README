@@ -1,0 +1,17 @@
+#################################################
+Google Cloud 
+Description:
+
+GCP Google Cloud - Compute Engine - Create an instance with docker & compose 
+for building docker images with startup-script and Ubuntu 16
+
+Usage:
+./create-instance.sh project-name instance-name
+
+Example:
+./create-instance.sh phrasal-lantern-223718 docker-instance
+
+Before this:
+Install and configure google sdk
+
+#################################################
